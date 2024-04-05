@@ -4187,10 +4187,10 @@ keymap("General GUI", {
     C("Shift-RC-Left"):         C("Shift-Home"),                # Select all to Beginning of Line
     C("RC-Right"):              C("End"),                       # End of Line
     C("Shift-RC-Right"):        C("Shift-End"),                 # Select all to End of Line
-    C("RC-Up"):                 C("C-Home"),                    # Beginning of File
-    C("Shift-RC-Up"):           C("C-Shift-Home"),              # Select all to Beginning of File
-    C("RC-Down"):               C("C-End"),                     # End of File
-    C("Shift-RC-Down"):         C("C-Shift-End"),               # Select all to End of File
+    # C("RC-Up"):                 C("C-Home"),                    # Beginning of File
+    # C("Shift-RC-Up"):           C("C-Shift-Home"),              # Select all to Beginning of File
+    # C("RC-Down"):               C("C-End"),                     # End of File
+    # C("Shift-RC-Down"):         C("C-Shift-End"),               # Select all to End of File
     C("Super-Backspace"):       C("C-Backspace"),               # Delete Left Word of Cursor
     C("Super-Delete"):          C("C-Delete"),                  # Delete Right Word of Cursor
     C("RC-Backspace"):          C("C-Shift-Backspace"),         # Delete Entire Line Left of Cursor
